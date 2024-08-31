@@ -24,20 +24,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . How to clone repositories, and how to commit changes through visual studio code.
 
 **I struggled with:** (repeat as needed)
-- .
+- . Figuring out how to how to set everything up. When i did my first clone it felt odd having no information on the github desktop. It took me a bit to figure out I needed to put it into Visual Studio.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . Nothing as of the moment. 
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- . https://uc.instructure.com/courses/1723000/pages/module-git-and-github?module_item_id=72870971 , https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop
+- . https://uc.instructure.com/courses/1723000/pages/module-git-and-github?module_item_id=72870971 , https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop , https://code.visualstudio.com/docs/sourcecontrol/overview#:~:text=You%20can%20type%20a%20commit,to%20change%20your%20commit%20settings.
   
 **I received help from the following people:** (repeat as needed)
 - . N/A
