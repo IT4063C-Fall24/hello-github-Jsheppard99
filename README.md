@@ -37,7 +37,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . https://uc.instructure.com/courses/1723000/pages/module-git-and-github?module_item_id=72870971 , https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . N/A
